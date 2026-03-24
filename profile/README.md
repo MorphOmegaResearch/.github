@@ -1,6 +1,6 @@
 # Morph-Omega Research
 
-Pattern-substrate neural architecture research. New Zealand. 2025–2026.
+Novel Neural architecture research. New Zealand. 2025–2026.
 
 ---
 
@@ -15,7 +15,7 @@ Every core property of Morph-Omega was confirmed here before the substrate exist
 
 **System 2 — Morph-Omega** (2025 experimental → 2026 formalised)
 A neural architecture in which the pattern database, vocabulary, and weight matrix are unified
-as a single canonical substrate. Each pattern carries a SHA-256 identifier that simultaneously
+as a single canonical substrate. Each pattern carries a Unique identifier that simultaneously
 serves as its token ID and its index into the embedding weight matrix.
 
 > *"pattern = vocabulary = weight"*
