@@ -40,9 +40,10 @@ serves as its token ID and its index into the embedding weight matrix.
 
 | Repo | What it is |
 |---|---|
-| [polymorphable](https://github.com/MorphOmegaResearch/polymorphable) | Tournament arena game — Morph-Omega inference test harness. Flare RPG engine + Python GUI + LIB bi-hemi pocket morph. Active development. |
 | [morph-omega-docs](https://github.com/MorphOmegaResearch/morph-omega-docs) | Architecture overview, formal properties, domain applications, safety architecture (Safe Logic Nurseries), tool trust chain. |
 | [LLM-Learning-Engine-Gui](https://github.com/MorphOmegaResearch/LLM-Learning-Engine-Gui) | Multi-tab LLM training and evaluation GUI. The hypothesis-testing environment that preceded and parented the Morph-Omega architecture. |
+
+*Additional repositories in active development — not yet public.*
 
 ---
 
