@@ -1,6 +1,6 @@
 # Morph-Omega Research
 
-Novel Neural architecture research. New Zealand. 2025–2026.
+Neural architecture research. New Zealand. 2025–2026.
 
 ---
 
